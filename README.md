@@ -24,7 +24,8 @@ Dan jangan lupa untuk menyimpan file dengan â€œnama menggunakan belakangnya .pyâ
  ![labpy1soal3](https://user-images.githubusercontent.com/46735500/52981036-d7baad00-340f-11e9-9fa7-fa3a27c4ce1a.JPG)
 
 Dan ketika sudah tersimpan langkah berikutnya buka cmd untuk melakukan output
-_hasil output:
+
+hasil output:
  
  ![output labby1soal3](https://user-images.githubusercontent.com/46735500/52981105-223c2980-3410-11e9-9f17-bdb0d509ddb8.JPG)
 
@@ -54,8 +55,7 @@ Dan setelah itu akan muncul output dari input.
 # praktikum3
 membuat pemograman sederhana dengan perulangan: progrma1.py dengan sebuah cerita di bawah ini:
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta,pada bulan pertama dan kedua belum mendapatkan laba. Pada bulan ketiga baru mulai mendapat laba sebesar 1% dan pada bulan ke 5,pendapatan meningkat 5%,selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%,sehingga laba menjadi 3%.hitung total keuntungan selama 8 bulann berjalan usahanya.
-Dari cerita di atas dapat di simpulkan menggunakan notepad pemograman sederhana dengan perulangan perhatikan gambar di bawah ini:
-Input: 
+Dari cerita di atas dapat di simpulkan menggunakan notepad pemograman sederhana dengan perulangan perhatikan gambar input di bawah ini:
  
  ![codding1](https://user-images.githubusercontent.com/46735500/52981283-3b91a580-3411-11e9-8d76-c6904fd33bc7.JPG)
  
