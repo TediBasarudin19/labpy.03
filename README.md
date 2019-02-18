@@ -1,3 +1,6 @@
+# Tugas Praktikum 3
+# masukan latihan1.py,latihan2.py dan dan pemogrman1.py
+
 # latihan1.py
 _penggunaan while dan for dengan menggunakan fungsi random() yang dapat di import terlebih dahulu_
 penjelasan:
@@ -23,7 +26,7 @@ Dan jangan lupa untuk menyimpan file dengan â€œnama menggunakan belakangnya .pyâ
 Dan ketika sudah tersimpan langkah berikutnya buka cmd untuk melakukan output
 _hasil output:
  
- 
+ ![output labby1soal3](https://user-images.githubusercontent.com/46735500/52981105-223c2980-3410-11e9-9f17-bdb0d509ddb8.JPG)
 
 # latihan2.py
 _tugas latihan2.py
