@@ -34,17 +34,17 @@ _buat program untuk menampilkan bilangan terbesar dari n buah data yang di input
 _masukan angka 0 untuk berhenti
 Perhatikan input yang saya buat:
  
- 
+ ![latihan2soal33](https://user-images.githubusercontent.com/46735500/52981200-ba3a1300-3410-11e9-976a-c975ced8a232.JPG)
  
 Max merupakan input untuk menentukan nilai terbesar
 while i < 10= Jika nilai i kurang dari 10 maka lakukan perulangan dan nilainya akan true 
 if sendiri salah satu dari fungsi paling popular di excel, dan memungkinkan anda untuk membuat logika perbandingan antra nilai dana pa yang anda harpkan. 
-Oleh karena itu,pernyataan if dapat memiliki dua hasil. Hasil pertama jika perbandingan anda benar dan hasil kedua jika perbandingan sala.
+Oleh karena itu,pernyataan if dapat memiliki dua hasil. Hasil pertama jika perbandingan anda benar dan hasil kedua jika perbandingan salah.
 Print merupakan perintah untuk mencetak,hasil dari inputnya sendiri,
 Dan ketika output sudah di lakukan dengan menggunkan cmd 
 Perhatikan output berikut ini:
  
- 
+![latihan2soal3](https://user-images.githubusercontent.com/46735500/52981204-befec700-3410-11e9-99db-a9a5fcff9525.JPG)
  
 Ketika kita perintahkan membuka input yang sudah di simpan,perhatikan gambar di atas:
 Pada line pertama ada “c:\Uders\USER>D:”
