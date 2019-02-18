@@ -1,5 +1,5 @@
 # Tugas Praktikum 3
-# masukan latihan1.py,latihan2.py dan dan pemogrman1.py
+# masukan latihan1.py,latihan2.py dan pemogrman1.py
 
 # latihan1.py
 _penggunaan while dan for dengan menggunakan fungsi random() yang dapat di import terlebih dahulu_
