@@ -31,7 +31,7 @@ _hasil output:
 # latihan2.py
 _tugas latihan2.py
 _buat program untuk menampilkan bilangan terbesar dari n buah data yang di inputkan
-_masukan angka 0 untuk berhenti
+masukan angka 0 untuk berhenti
 Perhatikan input yang saya buat:
  
  ![latihan2soal33](https://user-images.githubusercontent.com/46735500/52981200-ba3a1300-3410-11e9-976a-c975ced8a232.JPG)
