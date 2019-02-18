@@ -18,7 +18,7 @@ Tampilkan n bilangan acakyang lebih kecil dari 0,5
 Tugas dari latihan1.py seperti tampilan di atas menggunakan fungsi import random dan menggunakan for range yang sudah di jelas di atas.
 Dan jangan lupa untuk menyimpan file dengan “nama menggunakan belakangnya .py” seperti gambar di bawah ini:
  
- 
+ ![labpy1soal3](https://user-images.githubusercontent.com/46735500/52981036-d7baad00-340f-11e9-9fa7-fa3a27c4ce1a.JPG)
 
 Dan ketika sudah tersimpan langkah berikutnya buka cmd untuk melakukan output
 _hasil output:
