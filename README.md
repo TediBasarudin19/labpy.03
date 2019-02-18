@@ -56,14 +56,14 @@ Dan setelah itu akan muncul output dari input.
 _membuat pemograman sederhana dengan perulangan: progrma1.py dengan sebuah cerita di bawah ini:
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta,pada bulan pertama dan kedua belum mendapatkan laba. Pada bulan ketiga baru mulai mendapat laba sebesar 1% dan pada bulan ke 5,pendapatan meningkat 5%,selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%,sehingga laba menjadi 3%.hitung total keuntungan selama 8 bulann berjalan usahanya.
 Dari cerita di atas dapat di simpulkan menggunakan notepad pemograman sederhana dengan perulangan perhatikan gambar di bawah ini:
-Input: 
+-Input: 
  
- 
+ ![codding1](https://user-images.githubusercontent.com/46735500/52981283-3b91a580-3411-11e9-8d76-c6904fd33bc7.JPG)
  
 Gambar di atas merupakan pemograman sederhana menggunakan perulanngan ,ketika sudah selesai maka simpan dokumen nya dengan menggunakan kata belakangnya (.py) 
 Dan di bawah ini merupakan output dari input di atas :
  
- 
+![hasil codding2](https://user-images.githubusercontent.com/46735500/52981287-49dfc180-3411-11e9-8097-368aec0ec9df.JPG)
  
 Gambar di atas merupakan hasil  pemogranan,input yang di atas 
 Cara nya sama seperti yang di atas penggunaan for,range dan if.
